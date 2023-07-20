@@ -25,6 +25,10 @@ div{
 
 .menu-img{
     width: 750px;
+    color: black;
+    font-size: 32px;
+    margin: 12px;
+    
 }
 .menu{
     align-self: center;
@@ -33,4 +37,7 @@ div{
 nav{
     font-size: 32px;
     margin: 4px;
+}
+nav:hover{
+    cursor: pointer;
 }
