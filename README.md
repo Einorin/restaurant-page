@@ -1,4 +1,5 @@
 # restaurant-page
+Create everything using only javascirpt and a little css for styling
 
 
 credits to images 
