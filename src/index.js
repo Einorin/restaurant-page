@@ -3,6 +3,7 @@ import { addMenuOnClick } from './menuList.js';
 import { aboutRest } from './about.js';
 import { contact } from './contact.js';
 import { home } from './home.js';
+import './style.css'
 
 
 pageContent();
